@@ -11,8 +11,8 @@ A collection of technical records from NextBit completed job from real world fre
 
 | Job ID | Date | Service | Category | Status |
 |---|---|---|---|---|
-| JOB-001 | 2026-11-09 | Laptop Repasting | Hardware Maintenance | Completed |
-| JOB-002 | 2026-11-12 | Laptop Repasting | Hardware Maintenance | Completed |
+| JOB-001 | 2026-10-04 | Laptop Repasting | Hardware Maintenance | Completed |
+| JOB-002 | 2026-10-19 | Laptop Repasting | Hardware Maintenance | Completed |
 
 ## Documentation Structure
 Each job has its own directory containing:
